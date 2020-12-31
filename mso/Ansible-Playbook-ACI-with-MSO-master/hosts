@@ -1,0 +1,9 @@
+[mso]
+mso1 host="198.19.202.252" user="admin" pass="C^rr0t396565"
+
+[apic]
+apic1 host2="198.19.202.21" user2="admin" pass2="C^rr0t3965"
+apic2 host3="198.19.202.67" user3="admin" pass3="C^rr0t3965"
+
+[vcenter]
+vc1 host="198.19.202.251" user="administrator" pass="C^rr0t3965"
